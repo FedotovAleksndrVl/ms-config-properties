@@ -1,0 +1,6 @@
+spring:
+ application:
+  name: check-book-service
+
+test-property:
+ field: 5789-dev
