@@ -3,4 +3,4 @@ spring:
   name: check-book-service
 
 test-property:
- field: 789-dev
+ field: 578-dev
